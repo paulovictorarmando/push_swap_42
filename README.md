@@ -43,7 +43,7 @@ make fclean
 ```
 ./push_swap 3 1 2 0 4
 ```
-##### Example output::
+##### Example output:
 ```
 rra
 pb
