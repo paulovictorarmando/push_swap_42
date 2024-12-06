@@ -39,7 +39,7 @@ make fclean
 ```
 ./push_swap [numbers]
 ```
-#### Examples:
+#### Example:
 ```
 ./push_swap 3 1 2 0 4
 
