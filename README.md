@@ -42,6 +42,16 @@ make fclean
 #### Example:
 ```
 ./push_swap 3 1 2 0 4
-
+```
+##### Example output::
+```
+rra
+pb
+pb
+rra
+pa
+ra
+pa
+ra
 ```
 ###
