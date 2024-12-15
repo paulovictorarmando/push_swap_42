@@ -41,7 +41,7 @@ make fclean
 ```
 #### Example:
 ```
-./push_swap 3 1 2 0 9
+./push_swap 3 1 2 0 5
 ```
 ##### Example output:
 ```
